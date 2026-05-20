@@ -1,1 +1,1 @@
-local squash
+local squash 1
